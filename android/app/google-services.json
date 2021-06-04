@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793706675688",
+    "project_id": "sawodatabase",
+    "storage_bucket": "sawodatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793706675688:android:3143a9821d7fadabb7b85d",
+        "android_client_info": {
+          "package_name": "com.example.sawo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793706675688-nel8r7mmaot2cgr6aev0tb1vikdm5g98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZmIuXXJsNcCDHYgPXocHeLhH0TcJa3-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793706675688-nel8r7mmaot2cgr6aev0tb1vikdm5g98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
